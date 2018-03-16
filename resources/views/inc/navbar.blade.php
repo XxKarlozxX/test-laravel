@@ -14,6 +14,7 @@
                 <li> <a href="/">Home <span class="sr-only">(current)</span></a></li>
                 <li> <a href="/about">About </a></li>
                 <li> <a href="/service">Services</a>  </li>
+                <li> <a href="/posts">Posts</a>  </li>
             </ul>
         </div>
     </div>
